@@ -155,7 +155,7 @@ const HeroSection = () => (
           <StyledGradientText>JSON</StyledGradientText> CRACK
         </StyledTitle>
         <StyledHeroText>
-          Seamlessly visualize your{" "}
+          Seamlessl visualize your{" "}
           <StyledHighlightedText>
             <Typewriter
               words={["JSON", "YAML", "XML", "TOML", "CSV"]}
